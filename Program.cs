@@ -19,7 +19,7 @@ namespace ConsoleApp1
             
 
             //2.Написать приложение, которое ожидает ввода нескольких чисел и выводит на экран их сумму.
-            //System.Console.WriteLine("Введите несколько чисел: ");
+            //System.Console.WriteLine("Введите три числа: ");
             //int a = int.Parse(Console.ReadLine());
             //int b = int.Parse(Console.ReadLine());
             //int c = int.Parse(Console.ReadLine());
